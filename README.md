@@ -92,3 +92,5 @@ Parameters:
     e.g. base = [114.123456, 22.123456]
 
 &copyright; 2023 [LysanderT](https://github.com/LysanderT/RTK2XYZ)
+
+&friendlink; [tools4slam](https://github.com/LIAS-CUHKSZ/DataProcessTools4SLAM)
