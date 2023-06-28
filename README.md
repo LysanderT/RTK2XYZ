@@ -30,9 +30,9 @@ $ rostopic echo -b ./src/nmea_msgs/rs_mid_xs_2023-5-17-15-58-43.bag -p /nmea_sen
 
 ### 2. [RTK] .csv -> [XYZ] .csv
 
-using [python script](./rtk2xyz.py)
+using the [python script](./rtk2xyz.py).
 
-the [jupyter notebook](./rtk2xyz.ipynb) may be helpful
+and the [jupyter notebook](./rtk2xyz.ipynb) may be helpful if you want to test or read the code.
 
 ```bash
 pip install pandas
